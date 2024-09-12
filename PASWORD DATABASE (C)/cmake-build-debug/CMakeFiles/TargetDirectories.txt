@@ -1,0 +1,3 @@
+C:/Users/jorge/Documents/PROGRAMING PROJECTS/PASWORD DATABASE (C)/cmake-build-debug/CMakeFiles/PROGRAMING_PROJECTS.dir
+C:/Users/jorge/Documents/PROGRAMING PROJECTS/PASWORD DATABASE (C)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jorge/Documents/PROGRAMING PROJECTS/PASWORD DATABASE (C)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
